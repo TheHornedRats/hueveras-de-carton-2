@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hueveras-de-carton-2/static/css/main.e6c13ad2.css",
+    "main.js": "/hueveras-de-carton-2/static/js/main.3635275a.js",
+    "index.html": "/hueveras-de-carton-2/index.html",
+    "main.e6c13ad2.css.map": "/hueveras-de-carton-2/static/css/main.e6c13ad2.css.map",
+    "main.3635275a.js.map": "/hueveras-de-carton-2/static/js/main.3635275a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3635275a.js"
+  ]
+}
